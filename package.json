@@ -10,6 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/24ark/react-native-step-indicator.git"
